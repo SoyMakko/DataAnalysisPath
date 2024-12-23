@@ -1,0 +1,35 @@
+This file was created because there was an unexpected exception in Digital.
+Please send this file to digital-simulator@web.de or create an issue at
+GitHub: https://github.com/hneemann/Digital/issues
+
+Manifest: 
+Digital.jar:
+Build-Time=2023-02-03 10:55
+Build-SCM-Revision=v0.30
+Manifest-Version=1.0
+Created-By=Maven Archiver 3.5.0
+Build-Jdk-Spec=11
+Class-Path=xstream-1.4.20.jar mxparser-1.2.2.jar xmlpull-1.1.3.1.jar sl
+SplashScreen-Image=icons/splash.png
+Main-Class=de.neemann.digital.gui.Main
+
+
+## File Text 
+
+ text added
+ text added
+ text added
+ text added
+ text added
+ text added
+ text added
+ text added
+ text added
+ text added
+ text added
+ text added
+ text added
+ text added
+ text added
+ text added
+ text added
